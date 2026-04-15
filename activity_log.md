@@ -7,3 +7,4 @@
 - [2026-04-15T12:15:28Z] docs: update README with usage examples
 - [2026-04-15T13:40:08Z] feat: add helper utility function
 - [2026-04-15T15:49:35Z] style: apply consistent code formatting
+- [2026-04-15T09:52:45Z] refactor: simplify conditional logic
