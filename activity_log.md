@@ -5,3 +5,4 @@
 - [2026-04-13T10:32:25Z] chore: remove deprecated API calls
 - [2026-04-15T12:55:03Z] style: apply consistent code formatting
 - [2026-04-15T12:15:28Z] docs: update README with usage examples
+- [2026-04-15T13:40:08Z] feat: add helper utility function
