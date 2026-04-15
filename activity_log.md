@@ -8,3 +8,4 @@
 - [2026-04-15T13:40:08Z] feat: add helper utility function
 - [2026-04-15T15:49:35Z] style: apply consistent code formatting
 - [2026-04-15T09:52:45Z] refactor: simplify conditional logic
+- [2026-04-15T10:37:41Z] chore: remove deprecated API calls
